@@ -1,3 +1,16 @@
+Finally, a good looking portfolio site.
+
+Feature waitlist (not anytime soon) 
+- testimonials
+- guestbook
+
+This project was hugely inspired from [Bytegrad's portfolio](https://github.com/ByteGrad/portfolio-website/tree/master)
+
+#### Alright, now here's how to set this up on your system
+
+- Install [Next.js](https://nextjs.org/)
+- Clone this repo with `git clone https://github.com/zmusaddique/zmusaddique.portfolio.git`
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
